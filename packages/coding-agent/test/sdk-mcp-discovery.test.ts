@@ -1,3 +1,4 @@
+// CI probe: baseline run of this unmodified upstream file (touch to trigger affected-path job).
 import { afterEach, beforeEach, describe, expect, it } from "bun:test";
 import * as fs from "node:fs";
 import * as os from "node:os";
